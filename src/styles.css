@@ -1,0 +1,148 @@
+body {
+    background-color: #121212; /* Dark background color */
+    color: #fff; /* Text color */
+    font-family: Arial, sans-serif; /* Modern font */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  h1 {
+    font-size: 3rem; /* Big font size */
+  }
+  
+  form,
+  div {
+    text-align: center;
+  }
+  
+  label,
+  input,
+  button {
+    margin: 0.5rem;
+  }
+  
+  input,
+  button {
+    padding: 0.5rem 1rem;
+    font-size: 1.2rem; /* Big font size */
+  }
+  
+  button[type="submit"] {
+    background-color: #00b300; /* Green color for submit button */
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button[type="submit"]:hover {
+    background-color: #008000; /* Darker green on hover */
+  }
+  
+  button {
+    background-color: #ff0000; /* Red color for end button */
+  }
+  
+  button:hover {
+    background-color: #cc0000; /* Darker red on hover */
+  }
+body {
+  background-color: #121212; /* Dark background color */
+  color: #fff; /* Text color */
+  font-family: Arial, sans-serif; /* Modern font */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+h1 {
+  font-size: 3rem; /* Big font size */
+}
+
+form,
+div {
+  text-align: center;
+}
+
+label,
+input,
+button {
+  margin: 0.5rem;
+}
+
+input,
+button {
+  padding: 0.5rem 1rem;
+  font-size: 1.2rem; /* Big font size */
+}
+
+button[type="submit"] {
+  background-color: #00b300; /* Green color for submit button */
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+button[type="submit"]:hover {
+  background-color: #008000; /* Darker green on hover */
+}
+
+button {
+  background-color: #ff0000; /* Red color for end button */
+}
+
+button:hover {
+  background-color: #cc0000; /* Darker red on hover */
+}
+body {
+    background-color: #121212; /* Dark background color */
+    color: #fff; /* Text color */
+    font-family: Arial, sans-serif; /* Modern font */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  h1 {
+    font-size: 3rem; /* Big font size */
+  }
+  
+  form,
+  div {
+    text-align: center;
+  }
+  
+  label,
+  input,
+  button {
+    margin: 0.5rem;
+  }
+  
+  input,
+  button {
+    padding: 0.5rem 1rem;
+    font-size: 1.2rem; /* Big font size */
+  }
+  
+  button[type="submit"] {
+    background-color: #00b300; /* Green color for submit button */
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button[type="submit"]:hover {
+    background-color: #008000; /* Darker green on hover */
+  }
+  
+  button {
+    background-color: #ff0000; /* Red color for end button */
+  }
+  
+  button:hover {
+    background-color: #cc0000; /* Darker red on hover */
+  }
+    
